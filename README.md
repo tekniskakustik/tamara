@@ -1,15 +1,5 @@
 ```text
-    @@@@          @       @@@@
-     @@@@         @@       @@@@
-      @@@@        @@@       @@@@
-       @@@@       @@@@       @@@@
-        @@@@       @@@@       @@@@
-         @@@@       @@@@       @@@@
-          @@@        @@@@       @@@@
-           @@         @@@@       @@@@
-            @          @@@@       @@@@
 
-
-Tamara by Wolkesson & Hansson Teknisk Akustik AB
+Tamara by NVH Group AB
 Public repository for releases only.
 ```
